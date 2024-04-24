@@ -1,0 +1,15 @@
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\bin\Debug\net6.0\secao4_aula38.exe
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\bin\Debug\net6.0\secao4_aula38.deps.json
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\bin\Debug\net6.0\secao4_aula38.runtimeconfig.json
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\bin\Debug\net6.0\secao4_aula38.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\bin\Debug\net6.0\secao4_aula38.pdb
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.csproj.AssemblyReference.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.AssemblyInfoInputs.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.AssemblyInfo.cs
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.csproj.CoreCompileInputs.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\refint\secao4_aula38.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.pdb
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\secao4_aula38.genruntimeconfig.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula38\obj\Debug\net6.0\ref\secao4_aula38.dll
