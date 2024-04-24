@@ -31,12 +31,12 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             areaY = Math.Sqrt(p * (p - trianguloY1) * (p - trianguloY2) * (p - trianguloY3));
 
-            Console.WriteLine("A área do triangulo X é: " + areaX);
-            Console.WriteLine("A área do triangulo Y é: " + areaY);
+            Console.WriteLine("A área do triangulo X é: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("A área do triangulo Y é: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
 
             if (areaX > areaY)
             {
-                Console.WriteLine("Maior área: " + areaX);
+                Console.WriteLine("Maior área: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             }
             else if(areaX == areaY)
             {
@@ -44,7 +44,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
             else
             {
-                Console.WriteLine("Maior área: " + areaY);
+                Console.WriteLine("Maior área: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
             }
         }
     }
