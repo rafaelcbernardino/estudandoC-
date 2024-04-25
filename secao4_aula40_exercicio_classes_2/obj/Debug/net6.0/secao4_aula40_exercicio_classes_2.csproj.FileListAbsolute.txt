@@ -1,0 +1,15 @@
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\bin\Debug\net6.0\secao4_aula40_exercicio_classes_2.exe
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\bin\Debug\net6.0\secao4_aula40_exercicio_classes_2.deps.json
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\bin\Debug\net6.0\secao4_aula40_exercicio_classes_2.runtimeconfig.json
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\bin\Debug\net6.0\secao4_aula40_exercicio_classes_2.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\bin\Debug\net6.0\secao4_aula40_exercicio_classes_2.pdb
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.csproj.AssemblyReference.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.AssemblyInfoInputs.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.AssemblyInfo.cs
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.csproj.CoreCompileInputs.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\refint\secao4_aula40_exercicio_classes_2.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.pdb
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\secao4_aula40_exercicio_classes_2.genruntimeconfig.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula40_exercicio_classes_2\obj\Debug\net6.0\ref\secao4_aula40_exercicio_classes_2.dll
