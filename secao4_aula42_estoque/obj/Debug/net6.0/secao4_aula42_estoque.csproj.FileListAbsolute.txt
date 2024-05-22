@@ -1,0 +1,15 @@
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\bin\Debug\net6.0\secao4_aula42_estoque.exe
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\bin\Debug\net6.0\secao4_aula42_estoque.deps.json
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\bin\Debug\net6.0\secao4_aula42_estoque.runtimeconfig.json
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\bin\Debug\net6.0\secao4_aula42_estoque.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\bin\Debug\net6.0\secao4_aula42_estoque.pdb
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.csproj.AssemblyReference.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.AssemblyInfoInputs.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.AssemblyInfo.cs
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.csproj.CoreCompileInputs.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\refint\secao4_aula42_estoque.dll
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.pdb
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\secao4_aula42_estoque.genruntimeconfig.cache
+E:\Estudos\Udemy\C#\estudandoC-\secao4_aula42_estoque\obj\Debug\net6.0\ref\secao4_aula42_estoque.dll
