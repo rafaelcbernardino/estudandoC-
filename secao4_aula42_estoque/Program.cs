@@ -21,21 +21,24 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.Write("Quantidade em estoque: ");
             produto.quantidade = int.Parse(Console.ReadLine());
 
-            produto.AdicionarProduto();
+            Console.WriteLine();
+            Console.WriteLine("Dados do produto: " + produto);
 
-            Console.WriteLine(produto.ValorTotalEmEstoque());
-
+            Console.WriteLine();
             Console.WriteLine("Digite a quantidade de entrada no estoque:");
-            produto.quantidade = int.Parse(Console.ReadLine());
+            int qtd = int.Parse(Console.ReadLine());
+            produto.AdicionarProduto(qtd);
 
-            produto.AdicionarProduto();
-            Console.WriteLine(produto.ValorTotalEmEstoque());
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + produto);
 
+            Console.WriteLine();
             Console.WriteLine("Digite a quantidade de saída no estoque:");
-            produto.quantidade = int.Parse(Console.ReadLine());
+            qtd = int.Parse(Console.ReadLine());
+            produto.RemoverProduto(qtd);
 
-            produto.RemoverProduto();
-            Console.WriteLine(produto.ValorTotalEmEstoque());
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + produto);
 
         }
     }

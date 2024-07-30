@@ -12,24 +12,31 @@ namespace secao4_aula42_estoque
         public string nomeProduto;
         public double preco;
         public int quantidade;
-        public int quantidadeEstoque;
-        public double valorTotalEstoque;
 
-        public void AdicionarProduto()
+        public double ValorTotalEmEstoque()
         {
-            quantidadeEstoque = (quantidadeEstoque + quantidade);
-            valorTotalEstoque = (valorTotalEstoque + (preco * quantidade));
+            return preco * quantidade;
         }
 
-        public void RemoverProduto()
+        public void AdicionarProduto(int qtd)
         {
-            quantidadeEstoque = (quantidadeEstoque - quantidade);
-            valorTotalEstoque = (valorTotalEstoque - (preco * quantidade));
+            quantidade += qtd;
         }
 
-        public string ValorTotalEmEstoque()
+        public void RemoverProduto(int qtd)
         {
-            return "Dados atualizados: " +  nomeProduto + ", $" + preco.ToString("F2") + ", " + quantidadeEstoque + " unidades, Total: $" + valorTotalEstoque.ToString("F2");
+            quantidade -= qtd;
+        }
+
+        public override string ToString()
+        {
+            return nomeProduto 
+                + ", $" 
+                + preco.ToString("F2") 
+                + ", " 
+                + quantidade
+                + " unidades, Total: $" 
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
